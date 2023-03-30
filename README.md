@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**kadam-pallavi/kadam-pallavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Pallavi Kadam</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/hpXdHPfFI5wTABdDx9/200.webp?cid=ecf05e471rpbt3eemwd8jstot76un684jppjyxbxewsl18at&rid=200.webp&ct=g">
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kadam-pallavi&label=Profile%20views&color=0e75b6&style=flat" alt="kadam-pallavi" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 💬 Ask me about **MERN, JAVA**
+
+- 📫 How to reach me **kadampallavi36@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/pallavi-kadam-578305239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pallavi-kadam-578305239" height="30" width="40" /></a>
+<a href="https://instagram.com/pallavi4612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pallavi4612" height="30" width="40" /></a>
+<a href="https://hashnode.com/@pallavi_kadam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@pallavi_kadam" height="30" width="40" /></a>
+</p>
