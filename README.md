@@ -17,3 +17,7 @@
 <a href="https://instagram.com/pallavi4612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pallavi4612" height="30" width="40" /></a>
 <a href="https://hashnode.com/@pallavi_kadam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@pallavi_kadam" height="30" width="40" /></a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumansingle&show_icons=true&locale=en&layout=compact" alt="sumansingle" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kadam-pallavi&show_icons=true&locale=en" alt="sumansingle" /></p>
