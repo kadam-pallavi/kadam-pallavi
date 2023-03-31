@@ -1,4 +1,4 @@
-
+<img width="1000" height="200" src="https://img.freepik.com/free-vector/web-development-banner-computer-with-window-computer-with-browser-window_80328-118.jpg">
 <h1 align="center">Hi 👋, I'm Pallavi Kadam</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/hpXdHPfFI5wTABdDx9/200.webp?cid=ecf05e471rpbt3eemwd8jstot76un684jppjyxbxewsl18at&rid=200.webp&ct=g">
